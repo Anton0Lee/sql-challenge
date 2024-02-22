@@ -1,8 +1,7 @@
 # sql-challenge
 Data Analytics Bootcamp Challenge 9  
-This repo contains a data folder for all the csv files,  
-the query sql codes, the table schemata sql codes,  
-the ERD image, and a python script for formating the date data from one of the csv file.  
+This repo contains a data folder for all the csv files and a python script for formating the date data from one of the csv file.  
+the EmployeesSQL folder contians the query sql codes, the table schemata sql codes, and the ERD image  
 
 The python script is required as the date formating was not recognised by the pgadmin sql, thus requries it to be reformatted.  
 In the data folder, the old csv file (incorrect date format) is saved as 'old'. 
